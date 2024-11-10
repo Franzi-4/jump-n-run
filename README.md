@@ -12,8 +12,8 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
- Jump-n-Run:  It's like Minecraft but someone sat on it and squished it flat. 
-- 💀 No creepers! (you're welcome)
+Jump-n-Run:  It's like Minecraft but someone sat on it and squished it flat. 
+No creepers! (you're welcome)
 
 ## 🎮 How to Play 
 1. WASD/Arrow Keys to move left/right (shocking, I know)
