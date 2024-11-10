@@ -1,0 +1,19 @@
+# LÖVE specific
+*.love
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/*
+!.vscode/settings.json
+.idea/
+
+# Build outputs
+builds/
+dist/
+
+# Lua specific
+*.lua~
+*.luac
